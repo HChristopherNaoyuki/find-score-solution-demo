@@ -1,7 +1,3 @@
-Here's a structured README for your `FindScoreSolution` project, including an overview, setup instructions, and testing details.
-
----
-
 # Find Score Solution
 
 ## Overview
